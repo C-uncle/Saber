@@ -7,4 +7,4 @@
 
 2. Http2py.py
 
-用于将HTTP请求转化为python代码（未完成）
+用于将HTTP请求转化为python代码
